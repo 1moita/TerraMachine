@@ -1,0 +1,7 @@
+database:
+  provider: sql
+  connection:
+    host: 0.0.0.0:25565
+    database: root
+    user: root
+    password: your-database-password

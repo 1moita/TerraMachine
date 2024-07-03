@@ -1,0 +1,6 @@
+name: TerraMachine
+author: Giulian Moitinho (giulianmoitinho@gmail.com)
+version: 1.0
+main: net.terra.Plugin
+commands:
+  machine:

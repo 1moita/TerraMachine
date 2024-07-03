@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TerraMachine">
+    <output-path>$USER_HOME$/Documents/Projetos/TerraMine/lobby/plugins</output-path>
+    <root id="archive" name="TerraMachine.jar">
+      <element id="module-output" name="TerraMachine" />
+    </root>
+  </artifact>
+</component>
